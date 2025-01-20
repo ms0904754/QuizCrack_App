@@ -8,7 +8,7 @@ QuizCrack is a mobile quiz application built using Flutter. It provides an inter
 - **Result Page:** After finishing the quiz, a result page shows the number of correct and incorrect answers, and overall score.
 - **Responsive UI:** The app’s design is adaptable to different screen sizes.
 
-demo link:- [Link Text](https://drive.google.com/drive/folders/1UqRvGwSkRFtVtZDWYtnePkCnl2RXrSti?usp=sharing)
+demo link:- [Link](https://drive.google.com/drive/folders/1UqRvGwSkRFtVtZDWYtnePkCnl2RXrSti?usp=sharing)
 
 
 
