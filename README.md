@@ -1,6 +1,16 @@
 # quizcrack
 
-A new Flutter project.
+QuizCrack is a mobile quiz application built using Flutter. It provides an interactive quiz experience with multiple-choice questions, a countdown timer, and a detailed results page. The app supports multiple quizzes, keeps track of the score, and allows users to submit their answers and view results.
+
+- **Multiple-choice Questions:** Users can answer a variety of questions with multiple options.
+- **Countdown Timer:** A timer runs during the quiz to limit the answering time for each user.
+- **Instant Feedback:** Upon submitting answers, users get immediate feedback about their score and performance.
+- **Result Page:** After finishing the quiz, a result page shows the number of correct and incorrect answers, and overall score.
+- **Responsive UI:** The app’s design is adaptable to different screen sizes.
+
+demo link:- [Link Text](https://drive.google.com/drive/folders/1UqRvGwSkRFtVtZDWYtnePkCnl2RXrSti?usp=sharing)
+
+
 
 ## Getting Started
 
